@@ -1,0 +1,43 @@
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.py[cod]
+*$py.class
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Firebase
+*serviceAccountKey.json
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
